@@ -17,6 +17,7 @@
 ### Решение 1
 
 ![Скриншот-1]([https://github.com/ZetIxzet/hw-01/blob/main/132309.png](https://github.com/ZetIxzet/sflt-1/blob/main/163541.png))
+
 [файла](https://github.com/ZetIxzet/sflt-1/blob/main/hsrp_advanced.pkt)
 
 ---
